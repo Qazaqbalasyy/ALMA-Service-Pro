@@ -1,0 +1,12 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- Clean, Open-End Wrench (High Performance Vector) -->
+    <defs>
+        <linearGradient id="wrenchGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#007AFF" />
+            <stop offset="100%" style="stop-color:#0055CC" />
+        </linearGradient>
+    </defs>
+    <path d="M22 78l40-40 4-4a12 12 0 10-17-17l-4 4-40 40c-2 2-2 5 0 7l10 10c2 2 5 2 7 0zM85 30l4-4a4 4 0 00-6-6l-4 4 6 6zm-70 55l-4 4a4 4 0 006 6l4-4-6-6z" fill="url(#wrenchGrad)"/>
+    <!-- Better open-head cutout -->
+    <path d="M15 85l-10-10a18 18 0 010-25l5 5a10 10 0 000 15l5 5zM85 15l10 10a18 18 0 010 25l-5-5a10 10 0 000-15l-5-5z" fill="white" opacity="0.3"/>
+</svg>
